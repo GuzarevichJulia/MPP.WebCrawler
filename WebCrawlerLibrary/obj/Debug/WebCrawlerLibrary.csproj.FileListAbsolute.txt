@@ -1,0 +1,8 @@
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\bin\Debug\WebCrawlerLibrary.dll
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\bin\Debug\WebCrawlerLibrary.pdb
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\obj\Debug\WebCrawlerLibrary.dll
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\obj\Debug\WebCrawlerLibrary.pdb
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\bin\Debug\HtmlAgilityPack.dll
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\bin\Debug\HtmlAgilityPack.pdb
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\bin\Debug\HtmlAgilityPack.xml
+D:\Учёба\Семестр 5\СПП\Lab3\WebCrawler\WebCrawlerLibrary\obj\Debug\WebCrawlerLibrary.csprojResolveAssemblyReference.cache
